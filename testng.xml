@@ -1,0 +1,12 @@
+
+<suite name="renu">
+  <test name="Selenium">
+    <classes>
+      <class name="com.renu.testng.FirstTestNg"/>
+      <class name="com.renu.testng.Annatations"/>
+      <class name="com.renu.testng.AdminLoginTest"/>
+      <class name="com.renu.testng.BeforeTestAfterTest"/>
+      <class name="com.renu.testng.MultipleTestng"/>
+    </classes>
+  </test> 
+</suite> 
